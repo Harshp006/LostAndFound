@@ -1,6 +1,6 @@
 import { useState, FormEvent } from 'react';
 
-const API_ENDPOINT = "PASTE_API_URL_HERE";
+const API_ENDPOINT = "https://script.google.com/macros/s/AKfycbwPrGHO6XLvdcK9iWsJOSJGjjpfJCqxXods7ur-XHXLXJiYYA0aEGFrjtdKqjOXzkSh/exec";
 
 const CATEGORIES = [
   "Electronics",
